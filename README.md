@@ -5,4 +5,4 @@
  
  Deployed in Ropsten Network: https://ropsten.etherscan.io/token/0xd3953fa98c1b1161e3bf435dc8c3bc5c1e73424f
  
- 
+ Many thanks to following article with detail information: https://itnext.io/building-a-decentralized-application-with-bep-20-contract-in-solidity-d2c066447aa6
